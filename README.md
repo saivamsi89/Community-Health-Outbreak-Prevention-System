@@ -12,5 +12,5 @@ An early warning system that detects disease outbreaks using time-series forecas
 ## Quick Start
 ```bash
 pip install -r requirements.txt
-python generate_data.py
+python src/generate_data.py
 python main.py
